@@ -1,10 +1,8 @@
-# Trichotillomania Awareness Project
+# Trichotillomania Awareness Project 🚨
 
 ## Overview
 
-Welcome to the Trichotillomania Awareness Project! This project aims to detect and warn individuals with Trichotillomania, a disorder characterized by the urge to pull out one's hair, particularly from the scalp, eyebrows, and eyelashes. The system utilizes computer vision techniques and Python to detect facial hair pulling behavior in real-time.
-
-As someone that suffers with this condition, this idea came as a potential solution for those who suffer like I do with the use of emerging powerful technologies.
+Welcome to the Trichotillomania Awareness Project! This project aims to detect and warn individuals with Trichotillomania, a disorder characterized by the urge to pull out one's hair, particularly from the scalp, eyebrows, and eyelashes. The system utilizes computer vision techniques and Python to detect facial hair pulling behavior in real-time. As someone who suffers with this condition, this idea came as a potential solution with the use of emerging powerful technologies.
 
 ## Table of Contents
 
