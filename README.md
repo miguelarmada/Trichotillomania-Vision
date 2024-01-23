@@ -4,13 +4,16 @@
 
 Welcome to the Trichotillomania Awareness Project! This project aims to detect and warn individuals with Trichotillomania, a disorder characterized by the urge to pull out one's hair, particularly from the scalp, eyebrows, and eyelashes. The system utilizes computer vision techniques and Python to detect facial hair pulling behavior in real-time. As someone who suffers with this condition, this idea came as a potential solution with the use of emerging powerful technologies.
 
+See the application in action:
+
+![Trichotillomania Awareness Project](demo.gif)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demonstration](#demonstration)
 - [Contributing](#contributing)
 
 ## Getting Started 
@@ -51,12 +54,6 @@ streamlit run main-app.py
 ```
 
 The script will use your default camera to perform real-time tracking of hands and facial landmarks. With this information, a sound will play when the system detects hair-pulling behaviour, bringing awareness to this situation.
-
-## Demonstration 
-
-See the application in action:
-
-![Trichotillomania Awareness Project](demo.gif)
 
 ## Contributing 
 
