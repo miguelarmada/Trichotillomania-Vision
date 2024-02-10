@@ -50,7 +50,7 @@ git clone https://github.com/miguelarmada/Trichotillomania-Vision.git
 Run the main python script with streamlit to start using the application:
 
 ``` bash
-streamlit run main-app.py
+streamlit run app.py
 ```
 
 The script will use your default camera to perform real-time tracking of hands and facial landmarks. With this information, a sound will play when the system detects hair-pulling behaviour, bringing awareness to this situation.
